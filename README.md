@@ -7,7 +7,7 @@
 - 💻 I'm currently working on a movie recommendation system in Python.
 - 👀 I’m interested in translating raw data into information that everyone can comprehend easily.
 - 🌱 I’m currently taking Google's Data Analytics Course on Coursera.
--  Fun fact: I love to make my own bubble tea.
+- 🧋 Fun fact: I love to make my own bubble tea.
 
 ## Connect with me!
 [<img align="left" alt="viollysa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
