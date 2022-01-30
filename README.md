@@ -19,6 +19,7 @@
 
 <br />
 
-# Connect with me!
+## Connect with me!
+
 [instagram]: https://www.instagram.com/viollysa/
 [linkedin]: https://www.linkedin.com/in/allysatahimik/
