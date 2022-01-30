@@ -4,9 +4,14 @@
 
 ## I'm an aspiring data scientist. 
 
+- 💻 I'm currently working on a movie recommendation system in Python.
 - 👀 I’m interested in translating raw data into information that everyone can comprehend easily.
 - 🌱 I’m currently taking Google's Data Analytics Course on Coursera.
-- ⚡ Fun fact: I love make my own bubble tea.
+-  Fun fact: I love to make my own bubble tea.
+
+## Connect with me!
+[<img align="left" alt="viollysa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="viollysa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -18,8 +23,6 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> />
 
 <br />
-
-## Connect with me!
 
 [instagram]: https://www.instagram.com/viollysa/
 [linkedin]: https://www.linkedin.com/in/allysatahimik/
