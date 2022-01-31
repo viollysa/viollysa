@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Allysa! Welcome to my GitHub account! 😊
+# Hi, I'm Allysa!
 
 ## I'm an aspiring data scientist. 
 
