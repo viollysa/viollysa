@@ -4,7 +4,7 @@
 
 ## I'm an aspiring data scientist. 
 
-- 💻 I'm currently working on a movie recommendation system in Python.
+- 💻 I'm currently wokring towards a Master's in Data Science.
 - 👀 I’m interested in translating raw data into information that everyone can comprehend easily.
 - 🌱 I’m currently taking Google's Data Analytics Course on Coursera.
 - 🍪 Fun fact: I love to make my own bubble tea.
