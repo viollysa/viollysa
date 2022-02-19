@@ -6,7 +6,7 @@
 
 - 💻 I'm currently wokring towards a Master's in Data Science.
 - 👀 I’m interested in translating raw data into information that everyone can comprehend easily.
-- 🌱 I’m currently taking Google's Data Analytics Course on Coursera.
+- 🌱 I recently completed the [Google's Professional Data Analytics Certificate](https://www.credly.com/badges/b09a882c-3828-4e3f-be9d-ed9dd009931c/public_url).
 - 🍪 Fun fact: I love to make my own bubble tea.
 
 ## Connect with me!
