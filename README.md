@@ -2,9 +2,9 @@
 
 # Hi, I'm Allysa!
 
-## I'm a data scientist. 
+## I'm a data analyst. 
 
-- 💻 I graduated with a Masters of Science in Data Science from TTU.
+- 💻 I'm working towards a Masters of Science in Geographic Information Systems at Texas A&M University at College Station.
 - 👀 I’m interested in translating raw data into information that everyone can comprehend easily.
 - 🌱 I have a [Google's Professional Data Analytics Certificate](https://www.credly.com/badges/b09a882c-3828-4e3f-be9d-ed9dd009931c/public_url).
 - 🌆 My most recent personal project consists of [Data Engineering with Uber data](https://github.com/viollysa/uber-data-engineering).
